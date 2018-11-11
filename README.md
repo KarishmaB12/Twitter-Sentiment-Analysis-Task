@@ -51,6 +51,9 @@ of the given tweets.
 * Building a Classification Model using Logistic Regression Algorithm
 
 
-NOTE: To begin viewing the code, go to "Twitter Data Analysis.ipynb"
-To view the preprocessing and analysis of tweets, go to "Analysis of Tweets.ipynb"
+NOTE:
+-----
+
+* To begin viewing the code, go to "Twitter Data Analysis.ipynb".
+* To view the preprocessing and analysis of tweets, go to "Analysis of Tweets.ipynb"
 
